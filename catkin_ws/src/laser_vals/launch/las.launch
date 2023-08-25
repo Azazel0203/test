@@ -1,0 +1,9 @@
+
+<launch>
+
+    <node pkg="laser_vals" type="scan.py" name="scan_vals" output="screen">
+    
+
+    </node>
+
+</launch>
